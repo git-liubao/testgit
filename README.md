@@ -10,3 +10,5 @@ feat
 dev
 
 dev local
+
+local master
