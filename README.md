@@ -17,6 +17,4 @@ dev local 2
 local master
 
 
-wrong
-
 
